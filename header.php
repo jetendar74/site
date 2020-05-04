@@ -1,4 +1,14 @@
-<h1>header</h1>
+<!DOCTYPE HTML>
+
+<head>
+<title>Qasim Hussain</title>
+<link rel="stylesheet" href="app.css" />
+</head>
+
+ <header>
+  <h1>Logo</h1>
+ </header>
+
 
 <ul>
     <li><a href="index.php">Home</a></li>
